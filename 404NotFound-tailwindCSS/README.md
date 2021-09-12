@@ -42,7 +42,8 @@
 ![screenshot](https://github.com/KhaoulaMerhab/404NotFound/blob/main/404NotFound-tailwindCSS/public/img/screencapture-ecstatic-knuth-e4b8da-netlify-app-2021-09-12-20_57_04.png)
 <br/>
 <br/>
-Create a responsive 404 Not Found page using HTML + Tailwindcss, and complete the first challenge of [Responsive Web Developer](https://devchallenges.io/paths/responsive-web-developer)
+Create a responsive 404 Not Found page using HTML + Tailwindcss, and complete the first challenge of 
+[Responsive Web Developer](https://devchallenges.io/paths/responsive-web-developer)
 
 ### Built With
 
