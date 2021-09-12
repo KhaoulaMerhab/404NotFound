@@ -68,6 +68,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [Designing using Tailwindcss](https://tailwindcss.com/)
 - [Optimizing for Production](https://tailwindcss.com/docs/optimizing-for-production)
+- [PurgeCSS](https://themesberg.com/knowledge-center/tailwind-css/reduce-file-size)
 
 ## Contact
 
