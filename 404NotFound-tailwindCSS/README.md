@@ -32,9 +32,11 @@
 <!-- OVERVIEW -->
 
 ## Overview
-- Desktop Screen
+
+   - > Desktop Screen
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-- Mobile Screen
+
+   - > Mobile Screen
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 Create a responsive 404 Not Found page using HTML + Tailwindcss, and complete the first challenge of [Responsive Web Developer](https://devchallenges.io/paths/responsive-web-developer)
