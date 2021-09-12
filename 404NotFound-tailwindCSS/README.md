@@ -32,8 +32,9 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
+- Desktop Screen
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+- Mobile Screen
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 Create a responsive 404 Not Found page using HTML + Tailwindcss, and complete the first challenge of [Responsive Web Developer](https://devchallenges.io/paths/responsive-web-developer)
@@ -54,6 +55,13 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Learning Tailwindcss
 - Contains some microtransitions 
 - Responsive design 
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+
+- [Designing using Tailwindcss](https://tailwindcss.com/)
+- [Optimizing for Production](https://tailwindcss.com/docs/optimizing-for-production)
 
 ## Contact
 
