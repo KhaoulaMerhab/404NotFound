@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/KhaoulaMerhab/404NotFound/tree/main/404NotFound-CSS">
+    <a href="https://github.com/KhaoulaMerhab/404NotFound-CSS">
       CSS
     </a>
     <span> | </span>
